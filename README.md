@@ -1,9 +1,13 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=smtr42&show_icons=true">
+
 ### Hi there 👋
+<br>
 
-I'm a python developer and a meteorologist. Specialized in web development, i'm looking forward to learn about much more.
+I'm a python developer and a meteorologist. Specialized in web development, i'm looking forward to learn much more about Data.
 
-<br>🔭 I’m currently working on my <a href="http://www.simteiva.fr/"><b>Portfolio Website</b> </a><br>
+<br>
+🔭 I’m currently working on my <a href="http://www.simteiva.fr/"><b>Portfolio Website</b> </a> and these :
+<br>
 
 <br>
 <a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
@@ -25,6 +29,7 @@ I'm a python developer and a meteorologist. Specialized in web development, i'm 
 <br>
 <a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a>
 <a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a>
+
 <br>
 <br> 
   <a href="https://in.linkedin.com/in/teiva-s">
