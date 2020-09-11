@@ -1,8 +1,11 @@
-### Hi there 👋
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=smtr42&show_icons=true">
+### Hi there 👋
+
+I'm a python developer and a meteorologist. Specialized in web development, i'm looking forward to learn about much more.
+
+<br>🔭 I’m currently working on my <a href="http://www.simteiva.fr/"><b>Portfolio Website</b> </a><br>
 
 <br>
-**🔭 I’m currently working on my <a href="http://www.simteiva.fr/"><b>Portfolio Website</b> </a> **<br>
 <a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a>
 <a href="https://flask.palletsprojects.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a>
@@ -17,7 +20,8 @@
 <a href="https://www.ansible.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a>
 <a href="https://ubuntu.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></a>
 <br>
-**🌱 Looking forward to learn:** <br>
+
+🌱 Looking forward to learn:
 <br>
 <a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a>
 <a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a>
