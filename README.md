@@ -6,10 +6,6 @@
 I'm a python developer and a meteorologist. Specialized in web development, i'm looking forward to learn much more about Data.
 
 <br>
-🔭 I’m currently working on my <a href="http://www.simteiva.fr/"><b>Portfolio Website</b> </a> and these :
-<br>
-
-<br>
 <a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a>
 <a href="https://flask.palletsprojects.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a>
