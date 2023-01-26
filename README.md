@@ -1,9 +1,7 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=smtr42&show_icons=true">
-
 ### Hi there 👋
 <br>
 
-I'm a python developer and a meteorologist. Specialized in web development, i'm looking forward to learn much more about Data.
+I'm a python developer and a meteorologist. I do web development and data science.
 
 
 
